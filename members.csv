@@ -1,0 +1,9 @@
+ID,Name,Age,Gender,Trainer,Membership,Fee,Status
+1,John Doe,28,Male,Coach Mike,Monthly,50,Active
+2,Sarah Smith,32,Female,Coach Lisa,Quarterly,120,Active
+3,Mike Johnson,25,Male,Coach Mike,Monthly,50,Inactive
+4,Emma Wilson,29,Female,Coach David,Yearly,500,Active
+5,Alex Brown,31,Male,Coach Lisa,Monthly,50,Active
+6,Lisa Chen,26,Female,Coach David,Quarterly,120,Active
+7,Tom Harris,35,Male,Coach Mike,Yearly,500,Inactive
+8,Jessica Lee,24,Female,Coach Lisa,Monthly,50,Active

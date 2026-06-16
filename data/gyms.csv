@@ -1,0 +1,226 @@
+name,lat,lon,city,address,rating,type
+Gold's Gym Koramangala,12.9352,77.6245,Bangalore,Koramangala Bangalore,4.1,Premium
+Fitness First Koramangala,12.9359,77.6252,Bangalore,Koramangala Bangalore,4.2,Premium
+Cult.fit Koramangala,12.9366,77.6259,Bangalore,Koramangala Bangalore,4.3,Premium
+Anytime Fitness Koramangala,12.9373,77.6266,Bangalore,Koramangala Bangalore,4.4,Mid-range
+Stryv Fitness Koramangala,12.938,77.6273,Bangalore,Koramangala Bangalore,4.5,Mid-range
+Snap Fitness Koramangala,12.9387,77.628,Bangalore,Koramangala Bangalore,4.6,Mid-range
+Power World Gym Koramangala,12.9394,77.6287,Bangalore,Koramangala Bangalore,4.1,Budget
+Muscle Factory Koramangala,12.9401,77.6294,Bangalore,Koramangala Bangalore,4.2,Budget
+Iron Paradise Koramangala,12.9408,77.6301,Bangalore,Koramangala Bangalore,4.3,Mid-range
+Spartan Fitness Koramangala,12.9415,77.6308,Bangalore,Koramangala Bangalore,4.4,Premium
+Beast Mode Gym Koramangala,12.9422,77.6315,Bangalore,Koramangala Bangalore,4.5,Budget
+Ultimate Fitness Koramangala,12.9429,77.6322,Bangalore,Koramangala Bangalore,4.6,Premium
+Burn Fitness Koramangala,12.9436,77.6329,Bangalore,Koramangala Bangalore,4.1,Mid-range
+Fit Arena Koramangala,12.9443,77.6336,Bangalore,Koramangala Bangalore,4.2,Budget
+Elite Fitness Koramangala,12.945,77.6343,Bangalore,Koramangala Bangalore,4.3,Premium
+Gold's Gym Indiranagar,12.9716,77.6346,Bangalore,Indiranagar Bangalore,4.1,Premium
+Fitness First Indiranagar,12.9723,77.6353,Bangalore,Indiranagar Bangalore,4.2,Premium
+Cult.fit Indiranagar,12.973,77.636,Bangalore,Indiranagar Bangalore,4.3,Premium
+Anytime Fitness Indiranagar,12.9737,77.6367,Bangalore,Indiranagar Bangalore,4.4,Mid-range
+Stryv Fitness Indiranagar,12.9744,77.6374,Bangalore,Indiranagar Bangalore,4.5,Mid-range
+Snap Fitness Indiranagar,12.9751,77.6381,Bangalore,Indiranagar Bangalore,4.6,Mid-range
+Power World Gym Indiranagar,12.9758,77.6388,Bangalore,Indiranagar Bangalore,4.1,Budget
+Muscle Factory Indiranagar,12.9765,77.6395,Bangalore,Indiranagar Bangalore,4.2,Budget
+Iron Paradise Indiranagar,12.9772,77.6402,Bangalore,Indiranagar Bangalore,4.3,Mid-range
+Spartan Fitness Indiranagar,12.9779,77.6409,Bangalore,Indiranagar Bangalore,4.4,Premium
+Beast Mode Gym Indiranagar,12.9786,77.6416,Bangalore,Indiranagar Bangalore,4.5,Budget
+Ultimate Fitness Indiranagar,12.9793,77.6423,Bangalore,Indiranagar Bangalore,4.6,Premium
+Burn Fitness Indiranagar,12.98,77.643,Bangalore,Indiranagar Bangalore,4.1,Mid-range
+Fit Arena Indiranagar,12.9807,77.6437,Bangalore,Indiranagar Bangalore,4.2,Budget
+Elite Fitness Indiranagar,12.9814,77.6444,Bangalore,Indiranagar Bangalore,4.3,Premium
+Gold's Gym Whitefield,12.9698,77.7499,Bangalore,Whitefield Bangalore,4.1,Premium
+Fitness First Whitefield,12.9705,77.7506,Bangalore,Whitefield Bangalore,4.2,Premium
+Cult.fit Whitefield,12.9712,77.7513,Bangalore,Whitefield Bangalore,4.3,Premium
+Anytime Fitness Whitefield,12.9719,77.752,Bangalore,Whitefield Bangalore,4.4,Mid-range
+Stryv Fitness Whitefield,12.9726,77.7527,Bangalore,Whitefield Bangalore,4.5,Mid-range
+Snap Fitness Whitefield,12.9733,77.7534,Bangalore,Whitefield Bangalore,4.6,Mid-range
+Power World Gym Whitefield,12.974,77.7541,Bangalore,Whitefield Bangalore,4.1,Budget
+Muscle Factory Whitefield,12.9747,77.7548,Bangalore,Whitefield Bangalore,4.2,Budget
+Iron Paradise Whitefield,12.9754,77.7555,Bangalore,Whitefield Bangalore,4.3,Mid-range
+Spartan Fitness Whitefield,12.9761,77.7562,Bangalore,Whitefield Bangalore,4.4,Premium
+Beast Mode Gym Whitefield,12.9768,77.7569,Bangalore,Whitefield Bangalore,4.5,Budget
+Ultimate Fitness Whitefield,12.9775,77.7576,Bangalore,Whitefield Bangalore,4.6,Premium
+Burn Fitness Whitefield,12.9782,77.7583,Bangalore,Whitefield Bangalore,4.1,Mid-range
+Fit Arena Whitefield,12.9789,77.759,Bangalore,Whitefield Bangalore,4.2,Budget
+Elite Fitness Whitefield,12.9796,77.7597,Bangalore,Whitefield Bangalore,4.3,Premium
+Gold's Gym Electronic City,12.8456,77.6603,Bangalore,Electronic City Bangalore,4.1,Premium
+Fitness First Electronic City,12.8463,77.661,Bangalore,Electronic City Bangalore,4.2,Premium
+Cult.fit Electronic City,12.847,77.6617,Bangalore,Electronic City Bangalore,4.3,Premium
+Anytime Fitness Electronic City,12.8477,77.6624,Bangalore,Electronic City Bangalore,4.4,Mid-range
+Stryv Fitness Electronic City,12.8484,77.6631,Bangalore,Electronic City Bangalore,4.5,Mid-range
+Snap Fitness Electronic City,12.8491,77.6638,Bangalore,Electronic City Bangalore,4.6,Mid-range
+Power World Gym Electronic City,12.8498,77.6645,Bangalore,Electronic City Bangalore,4.1,Budget
+Muscle Factory Electronic City,12.8505,77.6652,Bangalore,Electronic City Bangalore,4.2,Budget
+Iron Paradise Electronic City,12.8512,77.6659,Bangalore,Electronic City Bangalore,4.3,Mid-range
+Spartan Fitness Electronic City,12.8519,77.6666,Bangalore,Electronic City Bangalore,4.4,Premium
+Beast Mode Gym Electronic City,12.8526,77.6673,Bangalore,Electronic City Bangalore,4.5,Budget
+Ultimate Fitness Electronic City,12.8533,77.668,Bangalore,Electronic City Bangalore,4.6,Premium
+Burn Fitness Electronic City,12.854,77.6687,Bangalore,Electronic City Bangalore,4.1,Mid-range
+Fit Arena Electronic City,12.8547,77.6694,Bangalore,Electronic City Bangalore,4.2,Budget
+Elite Fitness Electronic City,12.8554,77.6701,Bangalore,Electronic City Bangalore,4.3,Premium
+Gold's Gym ITPL,12.987,77.7376,Bangalore,ITPL Bangalore,4.1,Premium
+Fitness First ITPL,12.9877,77.7383,Bangalore,ITPL Bangalore,4.2,Premium
+Cult.fit ITPL,12.9884,77.739,Bangalore,ITPL Bangalore,4.3,Premium
+Anytime Fitness ITPL,12.9891,77.7397,Bangalore,ITPL Bangalore,4.4,Mid-range
+Stryv Fitness ITPL,12.9898,77.7404,Bangalore,ITPL Bangalore,4.5,Mid-range
+Snap Fitness ITPL,12.9905,77.7411,Bangalore,ITPL Bangalore,4.6,Mid-range
+Power World Gym ITPL,12.9912,77.7418,Bangalore,ITPL Bangalore,4.1,Budget
+Muscle Factory ITPL,12.9919,77.7425,Bangalore,ITPL Bangalore,4.2,Budget
+Iron Paradise ITPL,12.9926,77.7432,Bangalore,ITPL Bangalore,4.3,Mid-range
+Spartan Fitness ITPL,12.9933,77.7439,Bangalore,ITPL Bangalore,4.4,Premium
+Beast Mode Gym ITPL,12.994,77.7446,Bangalore,ITPL Bangalore,4.5,Budget
+Ultimate Fitness ITPL,12.9947,77.7453,Bangalore,ITPL Bangalore,4.6,Premium
+Burn Fitness ITPL,12.9954,77.746,Bangalore,ITPL Bangalore,4.1,Mid-range
+Fit Arena ITPL,12.9961,77.7467,Bangalore,ITPL Bangalore,4.2,Budget
+Elite Fitness ITPL,12.9968,77.7474,Bangalore,ITPL Bangalore,4.3,Premium
+Gold's Gym Jayanagar,12.925,77.5938,Bangalore,Jayanagar Bangalore,4.1,Premium
+Fitness First Jayanagar,12.9257,77.5945,Bangalore,Jayanagar Bangalore,4.2,Premium
+Cult.fit Jayanagar,12.9264,77.5952,Bangalore,Jayanagar Bangalore,4.3,Premium
+Anytime Fitness Jayanagar,12.9271,77.5959,Bangalore,Jayanagar Bangalore,4.4,Mid-range
+Stryv Fitness Jayanagar,12.9278,77.5966,Bangalore,Jayanagar Bangalore,4.5,Mid-range
+Snap Fitness Jayanagar,12.9285,77.5973,Bangalore,Jayanagar Bangalore,4.6,Mid-range
+Power World Gym Jayanagar,12.9292,77.598,Bangalore,Jayanagar Bangalore,4.1,Budget
+Muscle Factory Jayanagar,12.9299,77.5987,Bangalore,Jayanagar Bangalore,4.2,Budget
+Iron Paradise Jayanagar,12.9306,77.5994,Bangalore,Jayanagar Bangalore,4.3,Mid-range
+Spartan Fitness Jayanagar,12.9313,77.6001,Bangalore,Jayanagar Bangalore,4.4,Premium
+Beast Mode Gym Jayanagar,12.932,77.6008,Bangalore,Jayanagar Bangalore,4.5,Budget
+Ultimate Fitness Jayanagar,12.9327,77.6015,Bangalore,Jayanagar Bangalore,4.6,Premium
+Burn Fitness Jayanagar,12.9334,77.6022,Bangalore,Jayanagar Bangalore,4.1,Mid-range
+Fit Arena Jayanagar,12.9341,77.6029,Bangalore,Jayanagar Bangalore,4.2,Budget
+Elite Fitness Jayanagar,12.9348,77.6036,Bangalore,Jayanagar Bangalore,4.3,Premium
+Gold's Gym HSR Layout,12.9116,77.6474,Bangalore,HSR Layout Bangalore,4.1,Premium
+Fitness First HSR Layout,12.9123,77.6481,Bangalore,HSR Layout Bangalore,4.2,Premium
+Cult.fit HSR Layout,12.913,77.6488,Bangalore,HSR Layout Bangalore,4.3,Premium
+Anytime Fitness HSR Layout,12.9137,77.6495,Bangalore,HSR Layout Bangalore,4.4,Mid-range
+Stryv Fitness HSR Layout,12.9144,77.6502,Bangalore,HSR Layout Bangalore,4.5,Mid-range
+Snap Fitness HSR Layout,12.9151,77.6509,Bangalore,HSR Layout Bangalore,4.6,Mid-range
+Power World Gym HSR Layout,12.9158,77.6516,Bangalore,HSR Layout Bangalore,4.1,Budget
+Muscle Factory HSR Layout,12.9165,77.6523,Bangalore,HSR Layout Bangalore,4.2,Budget
+Iron Paradise HSR Layout,12.9172,77.653,Bangalore,HSR Layout Bangalore,4.3,Mid-range
+Spartan Fitness HSR Layout,12.9179,77.6537,Bangalore,HSR Layout Bangalore,4.4,Premium
+Beast Mode Gym HSR Layout,12.9186,77.6544,Bangalore,HSR Layout Bangalore,4.5,Budget
+Ultimate Fitness HSR Layout,12.9193,77.6551,Bangalore,HSR Layout Bangalore,4.6,Premium
+Burn Fitness HSR Layout,12.92,77.6558,Bangalore,HSR Layout Bangalore,4.1,Mid-range
+Fit Arena HSR Layout,12.9207,77.6565,Bangalore,HSR Layout Bangalore,4.2,Budget
+Elite Fitness HSR Layout,12.9214,77.6572,Bangalore,HSR Layout Bangalore,4.3,Premium
+Gold's Gym Marathahalli,12.9591,77.6974,Bangalore,Marathahalli Bangalore,4.1,Premium
+Fitness First Marathahalli,12.9598,77.6981,Bangalore,Marathahalli Bangalore,4.2,Premium
+Cult.fit Marathahalli,12.9605,77.6988,Bangalore,Marathahalli Bangalore,4.3,Premium
+Anytime Fitness Marathahalli,12.9612,77.6995,Bangalore,Marathahalli Bangalore,4.4,Mid-range
+Stryv Fitness Marathahalli,12.9619,77.7002,Bangalore,Marathahalli Bangalore,4.5,Mid-range
+Snap Fitness Marathahalli,12.9626,77.7009,Bangalore,Marathahalli Bangalore,4.6,Mid-range
+Power World Gym Marathahalli,12.9633,77.7016,Bangalore,Marathahalli Bangalore,4.1,Budget
+Muscle Factory Marathahalli,12.964,77.7023,Bangalore,Marathahalli Bangalore,4.2,Budget
+Iron Paradise Marathahalli,12.9647,77.703,Bangalore,Marathahalli Bangalore,4.3,Mid-range
+Spartan Fitness Marathahalli,12.9654,77.7037,Bangalore,Marathahalli Bangalore,4.4,Premium
+Beast Mode Gym Marathahalli,12.9661,77.7044,Bangalore,Marathahalli Bangalore,4.5,Budget
+Ultimate Fitness Marathahalli,12.9668,77.7051,Bangalore,Marathahalli Bangalore,4.6,Premium
+Burn Fitness Marathahalli,12.9675,77.7058,Bangalore,Marathahalli Bangalore,4.1,Mid-range
+Fit Arena Marathahalli,12.9682,77.7065,Bangalore,Marathahalli Bangalore,4.2,Budget
+Elite Fitness Marathahalli,12.9689,77.7072,Bangalore,Marathahalli Bangalore,4.3,Premium
+Gold's Gym BTM Layout,12.9166,77.6101,Bangalore,BTM Layout Bangalore,4.1,Premium
+Fitness First BTM Layout,12.9173,77.6108,Bangalore,BTM Layout Bangalore,4.2,Premium
+Cult.fit BTM Layout,12.918,77.6115,Bangalore,BTM Layout Bangalore,4.3,Premium
+Anytime Fitness BTM Layout,12.9187,77.6122,Bangalore,BTM Layout Bangalore,4.4,Mid-range
+Stryv Fitness BTM Layout,12.9194,77.6129,Bangalore,BTM Layout Bangalore,4.5,Mid-range
+Snap Fitness BTM Layout,12.9201,77.6136,Bangalore,BTM Layout Bangalore,4.6,Mid-range
+Power World Gym BTM Layout,12.9208,77.6143,Bangalore,BTM Layout Bangalore,4.1,Budget
+Muscle Factory BTM Layout,12.9215,77.615,Bangalore,BTM Layout Bangalore,4.2,Budget
+Iron Paradise BTM Layout,12.9222,77.6157,Bangalore,BTM Layout Bangalore,4.3,Mid-range
+Spartan Fitness BTM Layout,12.9229,77.6164,Bangalore,BTM Layout Bangalore,4.4,Premium
+Beast Mode Gym BTM Layout,12.9236,77.6171,Bangalore,BTM Layout Bangalore,4.5,Budget
+Ultimate Fitness BTM Layout,12.9243,77.6178,Bangalore,BTM Layout Bangalore,4.6,Premium
+Burn Fitness BTM Layout,12.925,77.6185,Bangalore,BTM Layout Bangalore,4.1,Mid-range
+Fit Arena BTM Layout,12.9257,77.6192,Bangalore,BTM Layout Bangalore,4.2,Budget
+Elite Fitness BTM Layout,12.9264,77.6199,Bangalore,BTM Layout Bangalore,4.3,Premium
+Gold's Gym Malleshwaram,13.0035,77.5706,Bangalore,Malleshwaram Bangalore,4.1,Premium
+Fitness First Malleshwaram,13.0042,77.5713,Bangalore,Malleshwaram Bangalore,4.2,Premium
+Cult.fit Malleshwaram,13.0049,77.572,Bangalore,Malleshwaram Bangalore,4.3,Premium
+Anytime Fitness Malleshwaram,13.0056,77.5727,Bangalore,Malleshwaram Bangalore,4.4,Mid-range
+Stryv Fitness Malleshwaram,13.0063,77.5734,Bangalore,Malleshwaram Bangalore,4.5,Mid-range
+Snap Fitness Malleshwaram,13.007,77.5741,Bangalore,Malleshwaram Bangalore,4.6,Mid-range
+Power World Gym Malleshwaram,13.0077,77.5748,Bangalore,Malleshwaram Bangalore,4.1,Budget
+Muscle Factory Malleshwaram,13.0084,77.5755,Bangalore,Malleshwaram Bangalore,4.2,Budget
+Iron Paradise Malleshwaram,13.0091,77.5762,Bangalore,Malleshwaram Bangalore,4.3,Mid-range
+Spartan Fitness Malleshwaram,13.0098,77.5769,Bangalore,Malleshwaram Bangalore,4.4,Premium
+Beast Mode Gym Malleshwaram,13.0105,77.5776,Bangalore,Malleshwaram Bangalore,4.5,Budget
+Ultimate Fitness Malleshwaram,13.0112,77.5783,Bangalore,Malleshwaram Bangalore,4.6,Premium
+Burn Fitness Malleshwaram,13.0119,77.579,Bangalore,Malleshwaram Bangalore,4.1,Mid-range
+Fit Arena Malleshwaram,13.0126,77.5797,Bangalore,Malleshwaram Bangalore,4.2,Budget
+Elite Fitness Malleshwaram,13.0133,77.5804,Bangalore,Malleshwaram Bangalore,4.3,Premium
+Gold's Gym Rajajinagar,12.991,77.554,Bangalore,Rajajinagar Bangalore,4.1,Premium
+Fitness First Rajajinagar,12.9917,77.5547,Bangalore,Rajajinagar Bangalore,4.2,Premium
+Cult.fit Rajajinagar,12.9924,77.5554,Bangalore,Rajajinagar Bangalore,4.3,Premium
+Anytime Fitness Rajajinagar,12.9931,77.5561,Bangalore,Rajajinagar Bangalore,4.4,Mid-range
+Stryv Fitness Rajajinagar,12.9938,77.5568,Bangalore,Rajajinagar Bangalore,4.5,Mid-range
+Snap Fitness Rajajinagar,12.9945,77.5575,Bangalore,Rajajinagar Bangalore,4.6,Mid-range
+Power World Gym Rajajinagar,12.9952,77.5582,Bangalore,Rajajinagar Bangalore,4.1,Budget
+Muscle Factory Rajajinagar,12.9959,77.5589,Bangalore,Rajajinagar Bangalore,4.2,Budget
+Iron Paradise Rajajinagar,12.9966,77.5596,Bangalore,Rajajinagar Bangalore,4.3,Mid-range
+Spartan Fitness Rajajinagar,12.9973,77.5603,Bangalore,Rajajinagar Bangalore,4.4,Premium
+Beast Mode Gym Rajajinagar,12.998,77.561,Bangalore,Rajajinagar Bangalore,4.5,Budget
+Ultimate Fitness Rajajinagar,12.9987,77.5617,Bangalore,Rajajinagar Bangalore,4.6,Premium
+Burn Fitness Rajajinagar,12.9994,77.5624,Bangalore,Rajajinagar Bangalore,4.1,Mid-range
+Fit Arena Rajajinagar,13.0001,77.5631,Bangalore,Rajajinagar Bangalore,4.2,Budget
+Elite Fitness Rajajinagar,13.0008,77.5638,Bangalore,Rajajinagar Bangalore,4.3,Premium
+Gold's Gym Yelahanka,13.1005,77.5963,Bangalore,Yelahanka Bangalore,4.1,Premium
+Fitness First Yelahanka,13.1012,77.597,Bangalore,Yelahanka Bangalore,4.2,Premium
+Cult.fit Yelahanka,13.1019,77.5977,Bangalore,Yelahanka Bangalore,4.3,Premium
+Anytime Fitness Yelahanka,13.1026,77.5984,Bangalore,Yelahanka Bangalore,4.4,Mid-range
+Stryv Fitness Yelahanka,13.1033,77.5991,Bangalore,Yelahanka Bangalore,4.5,Mid-range
+Snap Fitness Yelahanka,13.104,77.5998,Bangalore,Yelahanka Bangalore,4.6,Mid-range
+Power World Gym Yelahanka,13.1047,77.6005,Bangalore,Yelahanka Bangalore,4.1,Budget
+Muscle Factory Yelahanka,13.1054,77.6012,Bangalore,Yelahanka Bangalore,4.2,Budget
+Iron Paradise Yelahanka,13.1061,77.6019,Bangalore,Yelahanka Bangalore,4.3,Mid-range
+Spartan Fitness Yelahanka,13.1068,77.6026,Bangalore,Yelahanka Bangalore,4.4,Premium
+Beast Mode Gym Yelahanka,13.1075,77.6033,Bangalore,Yelahanka Bangalore,4.5,Budget
+Ultimate Fitness Yelahanka,13.1082,77.604,Bangalore,Yelahanka Bangalore,4.6,Premium
+Burn Fitness Yelahanka,13.1089,77.6047,Bangalore,Yelahanka Bangalore,4.1,Mid-range
+Fit Arena Yelahanka,13.1096,77.6054,Bangalore,Yelahanka Bangalore,4.2,Budget
+Elite Fitness Yelahanka,13.1103,77.6061,Bangalore,Yelahanka Bangalore,4.3,Premium
+Gold's Gym Hebbal,13.0358,77.597,Bangalore,Hebbal Bangalore,4.1,Premium
+Fitness First Hebbal,13.0365,77.5977,Bangalore,Hebbal Bangalore,4.2,Premium
+Cult.fit Hebbal,13.0372,77.5984,Bangalore,Hebbal Bangalore,4.3,Premium
+Anytime Fitness Hebbal,13.0379,77.5991,Bangalore,Hebbal Bangalore,4.4,Mid-range
+Stryv Fitness Hebbal,13.0386,77.5998,Bangalore,Hebbal Bangalore,4.5,Mid-range
+Snap Fitness Hebbal,13.0393,77.6005,Bangalore,Hebbal Bangalore,4.6,Mid-range
+Power World Gym Hebbal,13.04,77.6012,Bangalore,Hebbal Bangalore,4.1,Budget
+Muscle Factory Hebbal,13.0407,77.6019,Bangalore,Hebbal Bangalore,4.2,Budget
+Iron Paradise Hebbal,13.0414,77.6026,Bangalore,Hebbal Bangalore,4.3,Mid-range
+Spartan Fitness Hebbal,13.0421,77.6033,Bangalore,Hebbal Bangalore,4.4,Premium
+Beast Mode Gym Hebbal,13.0428,77.604,Bangalore,Hebbal Bangalore,4.5,Budget
+Ultimate Fitness Hebbal,13.0435,77.6047,Bangalore,Hebbal Bangalore,4.6,Premium
+Burn Fitness Hebbal,13.0442,77.6054,Bangalore,Hebbal Bangalore,4.1,Mid-range
+Fit Arena Hebbal,13.0449,77.6061,Bangalore,Hebbal Bangalore,4.2,Budget
+Elite Fitness Hebbal,13.0456,77.6068,Bangalore,Hebbal Bangalore,4.3,Premium
+Gold's Gym Banashankari,12.9255,77.5468,Bangalore,Banashankari Bangalore,4.1,Premium
+Fitness First Banashankari,12.9262,77.5475,Bangalore,Banashankari Bangalore,4.2,Premium
+Cult.fit Banashankari,12.9269,77.5482,Bangalore,Banashankari Bangalore,4.3,Premium
+Anytime Fitness Banashankari,12.9276,77.5489,Bangalore,Banashankari Bangalore,4.4,Mid-range
+Stryv Fitness Banashankari,12.9283,77.5496,Bangalore,Banashankari Bangalore,4.5,Mid-range
+Snap Fitness Banashankari,12.929,77.5503,Bangalore,Banashankari Bangalore,4.6,Mid-range
+Power World Gym Banashankari,12.9297,77.551,Bangalore,Banashankari Bangalore,4.1,Budget
+Muscle Factory Banashankari,12.9304,77.5517,Bangalore,Banashankari Bangalore,4.2,Budget
+Iron Paradise Banashankari,12.9311,77.5524,Bangalore,Banashankari Bangalore,4.3,Mid-range
+Spartan Fitness Banashankari,12.9318,77.5531,Bangalore,Banashankari Bangalore,4.4,Premium
+Beast Mode Gym Banashankari,12.9325,77.5538,Bangalore,Banashankari Bangalore,4.5,Budget
+Ultimate Fitness Banashankari,12.9332,77.5545,Bangalore,Banashankari Bangalore,4.6,Premium
+Burn Fitness Banashankari,12.9339,77.5552,Bangalore,Banashankari Bangalore,4.1,Mid-range
+Fit Arena Banashankari,12.9346,77.5559,Bangalore,Banashankari Bangalore,4.2,Budget
+Elite Fitness Banashankari,12.9353,77.5566,Bangalore,Banashankari Bangalore,4.3,Premium
+Gold's Gym JP Nagar,12.9077,77.5856,Bangalore,JP Nagar Bangalore,4.1,Premium
+Fitness First JP Nagar,12.9084,77.5863,Bangalore,JP Nagar Bangalore,4.2,Premium
+Cult.fit JP Nagar,12.9091,77.587,Bangalore,JP Nagar Bangalore,4.3,Premium
+Anytime Fitness JP Nagar,12.9098,77.5877,Bangalore,JP Nagar Bangalore,4.4,Mid-range
+Stryv Fitness JP Nagar,12.9105,77.5884,Bangalore,JP Nagar Bangalore,4.5,Mid-range
+Snap Fitness JP Nagar,12.9112,77.5891,Bangalore,JP Nagar Bangalore,4.6,Mid-range
+Power World Gym JP Nagar,12.9119,77.5898,Bangalore,JP Nagar Bangalore,4.1,Budget
+Muscle Factory JP Nagar,12.9126,77.5905,Bangalore,JP Nagar Bangalore,4.2,Budget
+Iron Paradise JP Nagar,12.9133,77.5912,Bangalore,JP Nagar Bangalore,4.3,Mid-range
+Spartan Fitness JP Nagar,12.914,77.5919,Bangalore,JP Nagar Bangalore,4.4,Premium
+Beast Mode Gym JP Nagar,12.9147,77.5926,Bangalore,JP Nagar Bangalore,4.5,Budget
+Ultimate Fitness JP Nagar,12.9154,77.5933,Bangalore,JP Nagar Bangalore,4.6,Premium
+Burn Fitness JP Nagar,12.9161,77.594,Bangalore,JP Nagar Bangalore,4.1,Mid-range
+Fit Arena JP Nagar,12.9168,77.5947,Bangalore,JP Nagar Bangalore,4.2,Budget
+Elite Fitness JP Nagar,12.9175,77.5954,Bangalore,JP Nagar Bangalore,4.3,Premium
